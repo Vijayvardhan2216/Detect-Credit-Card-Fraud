@@ -1,5 +1,5 @@
 # Detect-Credit-Card-Fraud
-**Credit Card Fraud Detection using Machine Learning**
+**Credit Card Fraud Detection using Machine Learning:-**
     This project implements and compares various machine learning algorithms to detect fraudulent credit card transactions. Using a dataset of customer transactions, the project explores data preprocessing, exploratory data analysis (EDA), and the implementation of classification models including Logistic Regression, Decision Trees, and Gradient Boosting Machines (GBM).
 
 
