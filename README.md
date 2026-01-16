@@ -4,7 +4,7 @@
 
 
 **Project Overview :-**
-    Credit card fraud is a significant issue for financial institutions. This project aims to build a robust classification system that can distinguish between legitimate and fraudulent transactions based on features such as customer age, gender, annual income and spending score. This project implements and compares various machine learning algorithms to detect fraudulent credit card transactions. Using a dataset of customer transactions, the project explores data preprocessing, exploratory data analysis (EDA) and the implementation of classification models including Logistic Regression, Decision Trees and Gradient Boosting Machines (GBM).
+    Credit card fraud is a significant issue for financial institutions. This project aims to build a robust classification system that can distinguish between legitimate and fraudulent transactions based on features such as customer age, gender, annual income and spending score.
 
 
 **Project Overview :-**
@@ -26,7 +26,7 @@ Credit card fraud is a significant issue for financial institutions. This projec
 - **Data Preprocessing:** Handling categorical variables (Gender) and stratified splitting of data.
 - **Exploratory Data Analysis:** Statistical summaries and variance analysis of features.
 
-- **Model Implementation:**
+**Model Implementation:**
 - **Logistic Regression:** A baseline probabilistic classifier.
 - **Decision Trees:** A non-linear model for capturing complex decision boundaries.
 - **Gradient Boosting Machine (GBM):** An ensemble technique to improve prediction accuracy.
