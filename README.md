@@ -7,10 +7,6 @@
     Credit card fraud is a significant issue for financial institutions. This project aims to build a robust classification system that can distinguish between legitimate and fraudulent transactions based on features such as customer age, gender, annual income and spending score.
 
 
-**Project Overview :-**
-Credit card fraud is a significant issue for financial institutions. This project aims to build a robust classification system that can distinguish between legitimate and fraudulent transactions based on features such as customer age, gender, annual income and spending score.
-
-
 **Dataset:**
     The project utilizes a dataset (referenced as Mall_Customers.csv in the notebook, though treated as transaction data for fraud detection) containing the following features:
 
@@ -31,7 +27,7 @@ Credit card fraud is a significant issue for financial institutions. This projec
 - **Decision Trees:** A non-linear model for capturing complex decision boundaries.
 - **Gradient Boosting Machine (GBM):** An ensemble technique to improve prediction accuracy.
 
-- **Performance Evaluation:**
+**Performance Evaluation:**
 - Confusion Matrices
 - ROC Curves and AUC (Area Under the Curve) calculation.
 - Relative Influence analysis for feature importance.
@@ -41,7 +37,7 @@ Credit card fraud is a significant issue for financial institutions. This projec
 
 - **Language:** R
 
-- **Libraries:**
+**Libraries:**
 - **ranger:** For fast random forest implementation.
 - **caret:** For data splitting and model training.
 - **data.table:** For efficient data manipulation.
